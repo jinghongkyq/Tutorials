@@ -1,9 +1,7 @@
 # Tutorials
 
-#### pytorch examples  
-[pytorch examples](https://github.com/pytorch/examples)  
-
-MNIST Convnets  
+#### [pytorch examples](https://github.com/pytorch/examples)  
+MNIST Convnets   
 * Word level Language Modeling using LSTM RNNs  
 * Training Imagenet Classifiers with Residual Networks  
 * Generative Adversarial Networks (DCGAN)  
