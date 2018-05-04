@@ -16,3 +16,5 @@ Additionally, a list of good examples hosted in their own repositories:
 * Neural Machine Translation using sequence-to-sequence RNN with attention (OpenNMT)  
 
 #### [A Beginner’s Guide to Deep Convolutional Neural Networks (CNNs)](https://deeplearning4j.org/convolutionalnetwork)  
+
+####[handong1587 Paper List](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-dl-applications.md)
